@@ -1,4 +1,4 @@
-gunicorn==20.0.4 # https://github.com/benoitc/gunicorn
+gunicorn==22.0.0 # https://github.com/benoitc/gunicorn
 
 argon2-cffi==19.1.0            # https://github.com/hynek/argon2_cffi
 Pillow==6.1.0                  # https://github.com/python-pillow/Pillow
@@ -6,7 +6,7 @@ python-slugify==4.0.0          # https://github.com/un33k/python-slugify
 pytz==2019.2                   # https://github.com/stub42/pytz
 redis==3.3.8                   # https://github.com/antirez/redis
 regex==2020.4.4           #https://bitbucket.org/mrabarnett/mrab-regex/src/hg/
-gunicorn==20.0.4
+gunicorn==22.0.0
 
 # Celery
 # _____________________________________________________________________________
